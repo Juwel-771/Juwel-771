@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **juwelmd416@gmail.com**
 
-- ⚡ Fun fact **Love to watch Anime. And favorite character is Uchiha Sasuke**
+- ⚡ Fun fact **Love to watch Anime. And favorite character 'Uchiha Sasuke'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +37,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwel-771&show_icons=true&locale=en&layout=compact" alt="juwel-771" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juwel-771&show_icons=true&locale=en" alt="juwel-771" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juwel-771&show_icons=true&theme=tokyonight&locale=en" alt="juwel-771" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juwel-771&" alt="juwel-771" /></p>
