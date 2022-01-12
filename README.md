@@ -31,6 +31,9 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=juwel-771)  
 
+![GitHub metrics](https://metrics.lecoq.io/juwel-771)  
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwel-771&show_icons=true&locale=en&layout=compact" alt="juwel-771" /></p>
 
