@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **Love to watch Anime. And favorite character 'Uchiha Sasuke'**
 
-<h3 align="left">Connect with me:</h3>
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
 <a href="https://twitter.com/@juwel_ahmed771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juwel_ahmed771" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/md-juwel-a888b1151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-juwel-a888b1151/" height="30" width="40" /></a>
