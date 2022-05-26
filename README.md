@@ -14,11 +14,11 @@
 
 - 🔭 I’m currently working on **Building various skill**
 
-- 🌱 I’m currently learning **Laravel 8.x, JavaScript, Tailwind CSS, Vue.js**
+- 🌱 I’m currently learning **MERN, JavaScript, Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Team Play**
 
-- 💬 Ask me about **Laravel**
+- 💬 Ask me about **ANYTHING**
 
 - 📫 How to reach me **juwelmd416@gmail.com**
 
