@@ -36,7 +36,7 @@
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-![GitHub Activity Graph]((https://activity-graph.herokuapp.com/graph?username=Juwel-771&bg_color=000000&color=4b4fc3&line=6515c6&point=1c29e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))  
+![GitHub Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![GitHub metrics](https://metrics.lecoq.io/juwel-771)  
 
