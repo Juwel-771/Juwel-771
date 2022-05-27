@@ -100,10 +100,12 @@
 </a> 
 <!-- End of Iconic Badge -->
 
+
 <!-- Start of Waka Time Statistics -->
+</br>
 <summary>Language Statistics </summary> </br>
 <p align="center">
-  <img src="https://wakatime.com/share/@16dacff3-9ce8-41bc-b4f6-b2712650be3b/e18d8229-0755-463d-a5f7-de2104e982fc.svg">
+  <img src="https://wakatime.com/share/@16dacff3-9ce8-41bc-b4f6-b2712650be3b/e18d8229-0755-463d-a5f7-de2104e982fc.svg" height="400">
 </p>
 <!-- End of Waka Time Statistics -->
 
