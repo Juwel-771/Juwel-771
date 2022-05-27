@@ -32,7 +32,7 @@
 <!-- Start of Trophy -->
 </br>
 <h2> Github Trophy </h2> </br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Juwel-771&margin-w=15)](https://github.com/Juwel-771/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juwel-771)](https://github.com/Juwel-771/github-profile-trophy)
 <!-- End of Trophy -->
 
 <!-- Start of Social Media -->
