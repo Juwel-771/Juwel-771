@@ -104,7 +104,6 @@
 <!-- Start of Waka Time Statistics -->
 </br>
 <h3 align="left">Coding Statistics:</h3>
-</br>
 <p align="center">
   <img src="https://wakatime.com/share/@16dacff3-9ce8-41bc-b4f6-b2712650be3b/e18d8229-0755-463d-a5f7-de2104e982fc.svg" height="500">
 </p>
