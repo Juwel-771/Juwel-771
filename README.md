@@ -29,6 +29,10 @@
 - ⚡ Fun fact **Love to watch Anime. And favorite character 'Uchiha Sasuke'**
 <!-- End of About Me -->
 
+<!-- Start of Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/Juwel-771/github-profile-trophy)
+<!-- End of Trophy -->
+
 <!-- Start of Social Media -->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
