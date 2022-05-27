@@ -99,7 +99,7 @@
 </br>
 <h3 align="left">Coding Statistics:</h3>
 <p align="center">
-  <img src="https://wakatime.com/share/@16dacff3-9ce8-41bc-b4f6-b2712650be3b/e18d8229-0755-463d-a5f7-de2104e982fc.svg" height="500">
+  <img src="https://wakatime.com/share/@juwel771/93b7204b-15ca-4a5b-8c61-d23a568191da.svg" height="500">
 </p>
 <!-- End of Waka Time Statistics -->
 
