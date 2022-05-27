@@ -1,5 +1,6 @@
 <!-- Start of Introduction Image -->
 <div align="center">
+   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
   <img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
 </div>
 <div align="center">
@@ -11,7 +12,7 @@
 <!-- End of Introduction Image -->
 
 <!-- Start of Badge -->
-  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
 <!-- End of Badge -->
 
 <!-- Start of About Me -->
