@@ -1,7 +1,7 @@
 <!-- Start of Introduction Image -->
 <div>
-  <a href="#"><img width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-  <a href="#"><img width="50%" height="auto" src="https://github.com/Juwel-771/Juwel-771/blob/master/header.png" height="175px"/></a>  
+  <!-- <a href="#"><img width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
+  <a href="#"><img width="100%" height="auto" src="https://github.com/Juwel-771/Juwel-771/blob/master/header.png" height="175px"/></a>  
 </div>
 <!-- <h1 align="center">Hi 👋, I'm Juwel</h1> -->
 <h3 align="center">Addicted to built by 0 and 1.</h3>
