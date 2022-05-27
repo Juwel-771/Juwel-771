@@ -30,7 +30,7 @@
 <!-- End of About Me -->
 
 <!-- Start of Trophy -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Juwel-771&theme=onedark&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Juwel-771&theme=chalk&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- End of Trophy -->
 
 <!-- Start of Social Media -->
