@@ -1,5 +1,5 @@
 <!-- Start of Introduction Image -->
-<img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true" width="100%" height="320" />
+<img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
 <div>
   <!-- <a href="#"><img width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
   <a href="#"><img width="100%" height="auto" src="https://github.com/Juwel-771/Juwel-771/blob/master/header.png" height="175px"/></a>  
