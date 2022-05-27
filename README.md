@@ -106,4 +106,20 @@
 <!--  End of Contribution Graph -->
 
 
+<!-- Start Of Most Language Used Chart -->
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwel-771&show_icons=true&locale=en&layout=compact" alt="juwel-771" />
+</p>
+<!-- End of Most Language Used Chart -->
 
+<!-- Start of Github Stats -->
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juwel-771&show_icons=true&theme=tokyonight&locale=en" alt="juwel-771" />
+</p>
+<!-- End of Github Statsh -->
+
+<!-- Start of Current Strike -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juwel-771&" alt="juwel-771" />
+</p>
+<!-- End of  Current Strike -->
