@@ -8,7 +8,7 @@
 <!-- Start of Badge -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juwel-771&label=Profile%20views&color=0e75b6&style=flat" alt="juwel-771" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@juwel_ahmed771" target="blank"><img src="https://img.shields.io/twitter/follow/@juwel_ahmed771?logo=twitter&style=for-the-badge" alt="@juwel_ahmed771" /></a> </p>
+<p align="left"> </p>
 <!-- End of Badge -->
 
 <!-- Start of About Me -->
