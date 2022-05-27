@@ -5,7 +5,7 @@
 <!-- End of Introduction Image -->
 
 <!-- Start of Badge -->
-  <div align = "center">[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)</div>
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!-- End of Badge -->
 
 <!-- Start of About Me -->
