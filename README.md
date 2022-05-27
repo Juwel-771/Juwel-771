@@ -1,6 +1,5 @@
 <!-- Start of Introduction Image -->
 <div align="center">
-   [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
   <img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
 </div>
 <div align="center">
@@ -119,8 +118,9 @@
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=juwel-771&" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=juwel-771&show_icons=true&theme=tokyonight&locale=en" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=juwel-771&show_icons=true&locale=en&layout=compact" />
     </a>
+     
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
