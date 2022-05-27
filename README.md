@@ -6,9 +6,7 @@
 <!-- End of Introduction Image -->
 
 <!-- Start of Badge -->
-
-
-<p align="left"> </p>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!-- End of Badge -->
 
 <!-- Start of About Me -->
