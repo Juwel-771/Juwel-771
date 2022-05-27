@@ -32,9 +32,17 @@
 <!-- Start of Social Media -->
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <p align="left">
-<a href="https://twitter.com/@juwel_ahmed771" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juwel_ahmed771" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/md-juwel-a888b1151/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-juwel-a888b1151/" height="30" width="40" /></a>
-<a href="https://fb.com/play.juwel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="play.juwel" height="30" width="40" /></a>
+<a href="https://twitter.com/@juwel_ahmed771" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juwel_ahmed771" height="30" width="40" />
+ </a>
+  
+<a href="https://www.linkedin.com/in/md-juwel-a888b1151/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-juwel-a888b1151/" height="30" width="40" />
+ </a>
+  
+<a href="https://fb.com/play.juwel" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="play.juwel" height="30" width="40" />
+ </a>
 </p>
 <!-- End of Social Media -->
 
@@ -80,15 +88,22 @@
 </p>
 <!--  End of Language and Tool -->
 
+<!-- Start of Iconic Badge -->
+<a href='https://archiveprogram.github.com/'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
+</a> 
+<a href='https://docs.github.com/en/developers'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
+</a> 
+<a href='https://stars.github.com/'>
+  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
+</a> 
+<!-- End of Iconic Badge -->
 
-
+<!-- Start of Contribution Graph -->
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Juwel-771&bg_color=000000&color=4b4fc3&line=6515c6&point=1c29e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/juwel-771)  
+<!--  End of Contribution Graph -->
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juwel-771&show_icons=true&locale=en&layout=compact" alt="juwel-771" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juwel-771&show_icons=true&theme=tokyonight&locale=en" alt="juwel-771" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juwel-771&" alt="juwel-771" /></p>
