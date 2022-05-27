@@ -30,7 +30,6 @@
 <!-- End of About Me -->
 
 <!-- Start of Trophy -->
-<h2> Github Trophy </h2> </br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=Juwel-771&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!-- End of Trophy -->
 
