@@ -119,7 +119,8 @@
       <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=Juwel-771&theme=tokyonight&hide_border=true" alt="Juwel-771" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=juwel-771&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juwel-771&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
+      
     </a>
      
   </div>
