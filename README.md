@@ -120,7 +120,6 @@
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juwel-771&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
-      
     </a>
      
   </div>
