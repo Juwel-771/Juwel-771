@@ -97,9 +97,9 @@
 
 <!-- Start of Waka Time Statistics -->
 </br>
-<!-- <h3 align="left">Coding Statistics:</h3> -->
+<h3 align="left">Coding Statistics:</h3>
 <p align="center">
-  <!-- <img src="https://wakatime.com/share/@juwel771/9b5426f4-2c04-438e-b8bc-60c8f8761f3e.png" height="500"> -->
+  <img src="https://wakatime.com/share/@juwel771/9b5426f4-2c04-438e-b8bc-60c8f8761f3e.png" height="500">
   
 </p>
 <!-- End of Waka Time Statistics -->
