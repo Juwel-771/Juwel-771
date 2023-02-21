@@ -3,9 +3,7 @@
   <img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
 </div>
 
-<div align="center">
    <h3 align="center">Addicted to built by 0 and 1.</h3>
-</div>
 <!-- End of Introduction Image -->
 <br>
 
