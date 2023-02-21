@@ -1,13 +1,12 @@
 <!-- Start of Introduction Image -->
 
-<div align="center">
+<!-- <div align="center">
   <img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
 </div>
-   <h3 align="center">Addicted to built by 0 and 1.</h3>
+   <h3 align="center">Addicted to built by 0 and 1.</h3> -->
 <!-- End of Introduction Image -->
 <br>
 
-<p align=center>
  <!-- Start of About Me -->
 <h2> About Me </h2>
 
@@ -25,7 +24,6 @@
 
 - ⚡ Fun fact **Love to watch Anime. And favorite character 'Uchiha Sasuke'**
 <!-- End of About Me -->
-</p>
 
 
 
