@@ -6,7 +6,6 @@
   <!-- <a href="#"><img width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
   <a href="#"><img width="50%" height="auto" src="https://github.com/Juwel-771/Juwel-771/blob/master/header.png" height="175px"/></a>  
 </div>
-<!-- <h1 align="center">Hi 👋, I'm Juwel</h1> -->
 <h3 align="center">Addicted to built by 0 and 1.</h3>
 <!-- End of Introduction Image -->
 
@@ -21,7 +20,7 @@
 
 - 🔭 I’m currently working on **Building various skill**
 
-- 🌱 I’m currently learning **MERN, JavaScript, Tailwind CSS**
+- 🌱 I’m currently learning **Back-End Technologies**
 
 - 👯 I’m looking to collaborate on **Team Play**
 
@@ -97,11 +96,11 @@
 
 <!-- Start of Waka Time Statistics -->
 </br>
-<h3 align="left">Coding Statistics:</h3>
+<!-- <h3 align="left">Coding Statistics:</h3>
 <p align="center">
   <img src="https://wakatime.com/share/@juwel771/9b5426f4-2c04-438e-b8bc-60c8f8761f3e.png" height="500">
   
-</p>
+</p> -->
 <!-- End of Waka Time Statistics -->
 
 <!-- Start of Contribution Graph -->
