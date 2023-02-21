@@ -2,10 +2,7 @@
 <div align="center">
   <img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
 </div>
-<!-- <div align="center">
-  <!-- <a href="#"><img width="50%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
-  <a href="#"><img width="50%" height="auto" src="https://github.com/Juwel-771/Juwel-771/blob/master/header.png" height="175px"/></a>  
-</div> -->
+
 <h3 align="center">Addicted to built by 0 and 1.</h3>
 <!-- End of Introduction Image -->
 
