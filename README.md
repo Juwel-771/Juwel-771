@@ -1,13 +1,11 @@
 <!-- Start of Introduction Image -->
-<p align="center">
+
 <div align="center">
   <img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
 </div>
-</p>
-<p align="center">
+<br><br><br><br>
    <h3 align="center">Addicted to built by 0 and 1.</h3>
 <!-- End of Introduction Image -->
-</p>
 <br>
 
 <!-- Start of About Me -->
