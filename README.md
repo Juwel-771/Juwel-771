@@ -5,10 +5,7 @@
 
 <h3 align="center">Addicted to built by 0 and 1.</h3>
 <!-- End of Introduction Image -->
-
-<!-- Start of Badge -->
- 
-<!-- End of Badge -->
+<br>
 
 <!-- Start of About Me -->
 <h2> About Me </h2>
