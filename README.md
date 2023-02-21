@@ -7,7 +7,8 @@
 <!-- End of Introduction Image -->
 <br>
 
-<!-- Start of About Me -->
+<p align=center>
+ <!-- Start of About Me -->
 <h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -24,6 +25,9 @@
 
 - ⚡ Fun fact **Love to watch Anime. And favorite character 'Uchiha Sasuke'**
 <!-- End of About Me -->
+</p>
+
+
 
 <!-- Start of Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Juwel-771&theme=chalk&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
