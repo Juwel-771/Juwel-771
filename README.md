@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **Building various skill**
 
-- 🌱 I’m currently learning **Back-End Technologies**
+- 🌱 I’m currently learning **Front-End Engineering**
 
 - 👯 I’m looking to collaborate on **Team Play**
 
