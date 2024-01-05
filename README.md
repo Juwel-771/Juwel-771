@@ -99,12 +99,14 @@
 <p align="center">
   <img src="https://wakatime.com/share/@juwel771/9b5426f4-2c04-438e-b8bc-60c8f8761f3e.png" height="500">
   
-</p> -->
+</p>
 <!-- End of Waka Time Statistics -->
 
 <!-- Start of Contribution Graph -->
+<!-- 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Juwel-771&bg_color=000000&color=4b4fc3&line=6515c6&point=1c29e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![GitHub metrics](https://metrics.lecoq.io/juwel-771)  
+-->
 <!--  End of Contribution Graph -->
 
 
