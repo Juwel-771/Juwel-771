@@ -80,6 +80,7 @@
 <!--  End of Language and Tool -->
 
 <!-- Start of Iconic Badge -->
+<!-- 
 <a href='https://archiveprogram.github.com/'>
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
 </a> 
@@ -90,7 +91,7 @@
   <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
 </a> 
 <!-- End of Iconic Badge -->
-
+-->
 
 <!-- Start of Waka Time Statistics -->
 </br>
