@@ -1,135 +1,76 @@
-<!-- Start of Introduction Image -->
+<h1 align="left">Hey 👋 Myself Juwel</h1>
 
-<!-- <div align="center">
-  <img align="right" alt="GIF" src="https://github.com/Juwel-771/Juwel-771/blob/master/code.gif?raw=true"/>
+###
+
+<p align="left">I'm a dedicated Front-End Developer with a strong focus on React.js and hands-on experience in building full-stack applications using the MERN stack. I enjoy crafting clean, efficient, and maintainable code while tackling complex project challenges that push my problem-solving abilities. ⚙️ Whether it's building dynamic user interfaces or managing state with precision, I strive to bring a thoughtful, scalable approach to every project I work on.<br><br>Currently, I'm diving deeper into the tech universe 🚀 by exploring a range of modern tools, libraries, and development practices. My goal is to continuously evolve as a developer, stay ahead of the curve, and contribute to impactful digital experiences. 💻 I believe in writing code that not only works but is beautiful under the hood — because great software is both functional and elegant.</p>
+
+###
+
+<h2 align="left">Find me here 🔗</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mdjuwel9/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=.&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
 </div>
-   <h3 align="center">Addicted to built by 0 and 1.</h3> -->
-<!-- End of Introduction Image -->
-<br>
 
- <!-- Start of About Me -->
-<h2> About Me </h2>
+###
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<h2 align="left">Tech , Tools & Skills</h2>
 
-- 🔭 I’m currently working on **Building various skill**
+###
 
-- 🌱 I’m currently learning **Front-End Engineering**
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="29" alt="html5 logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="29" alt="css3 logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="29" alt="javascript logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="29" alt="typescript logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="29" alt="react logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="29" alt="nextjs logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="29" alt="redux logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="29" alt="tailwindcss logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="29" alt="materialui logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="29" alt="sass logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="29" alt="nodejs logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="29" alt="mongodb logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="29" alt="mysql logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="29" alt="firebase logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="29" alt="express logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=black&style=for-the-badge" height="29" alt="webpack logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="29" alt="github logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=black&style=for-the-badge" height="29" alt="netlify logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" height="29" alt="vercel logo"  />
+  <img width="7" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="29" alt="postman logo"  />
+</div>
 
-- 👯 I’m looking to collaborate on **Team Play**
+###
 
-- 💬 Ask me about **ANYTHING**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Juwel-771&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Juwel-771&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Juwel-771&locale=en&mode=daily&theme=nightowl&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Juwel-771&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
-- 📫 How to reach me **juwelmd416@gmail.com**
-
-- ⚡ Fun fact **Love to watch Anime. And favorite character 'Uchiha Sasuke'**
-<!-- End of About Me -->
-
-
-
-<!-- Start of Trophy -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Juwel-771&theme=chalk&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy) --> 
-<!-- End of Trophy -->
-
-<!-- Start of Social Media -->
-<h2> Connect with me </h2>
-<p align="left">
-<a href="https://twitter.com/@juwel_ahmed771" target="blank">
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdjuwel9)
-</a>
-  
-<a href="https://www.linkedin.com/in/md-juwel-a888b1151/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-juwel-a888b1151/" height="30" width="40" />
- </a>
-  
-<a href="https://fb.com/play.juwel" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="play.juwel" height="30" width="40" />
- </a>
-</p>
-<!-- End of Social Media -->
-
-<!-- Start of Language and Tool -->
-<!-- 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /> 
-
-</p>
--->
-<!--  End of Language and Tool -->
-
-<!-- Start of Iconic Badge -->
-<!-- 
-<a href='https://archiveprogram.github.com/'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'>
-</a> 
-<a href='https://docs.github.com/en/developers'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a> 
-<a href='https://stars.github.com/'>
-  <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'>
-</a> 
-<!-- End of Iconic Badge -->
-
-
-<!-- Start of Waka Time Statistics -->
-</br>
-<!-- <h3 align="left">Coding Statistics:</h3>
-<p align="center">
-  <img src="https://wakatime.com/share/@juwel771/9b5426f4-2c04-438e-b8bc-60c8f8761f3e.png" height="500">
-</p>
-<!-- End of Waka Time Statistics -->
-
-<!-- Start of Contribution Graph -->
-<!-- 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Juwel-771&bg_color=000000&color=4b4fc3&line=6515c6&point=1c29e3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![GitHub metrics](https://metrics.lecoq.io/juwel-771)  
--->
-<!--  End of Contribution Graph -->
-
-
-<!-- Start Of Stats -->
-<!-- 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="http://github-readme-streak-stats.herokuapp.com?user=Juwel-771&theme=tokyonight&hide_border=true" alt="Juwel-771" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juwel-771&show_icons=true&theme=tokyonight&locale=en&layout=compact" />
-    </a>
-     
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api?username=Juwel-771&show_icons=true&theme=tokyonight&locale=en" />
-    </a>
-  </div>
-  <br>
-</p>
--->
-<!-- End of  Stats -->
+###
