@@ -2,29 +2,7 @@
 
 ###
 
-<p align="left">💻 Hi, I’m Juwel!
-
-I’m a dedicated Full-Stack Developer passionate about crafting dynamic and scalable web applications.
-My expertise spans across:
-
-⚡ Frontend: React.js & Vue.js for building clean, interactive UIs
-
-⚙️ Backend: PHP & Laravel for robust server-side logic
-
-🖥️ Programming Languages: JavaScript (ES6+) & PHP
-
-I enjoy writing clean, efficient, and maintainable code while tackling complex project challenges that sharpen my problem-solving skills. From state management in SPAs to secure backend architecture, I take a thoughtful and scalable approach to every project.
-
-🚀 Currently Exploring:
-
-Modern frontend ecosystems and state management techniques
-
-Advanced Laravel features for building production-ready apps
-
-Clean code, best practices, and full-stack project development
-
-✨ I believe:
-Great software is not just functional—it’s elegant, performant, and future-proof.</p>
+<p align="left">I’m a dedicated Full-Stack Developer with a passion for building dynamic and scalable web applications using React.js, Vue.js, and Laravel. With strong programming skills in JavaScript and PHP, I enjoy crafting clean, efficient, and maintainable code while solving complex project challenges that enhance my problem-solving abilities. From creating interactive and seamless front-end experiences to building secure and robust back-end systems, I approach every project with a thoughtful, scalable, and future-proof mindset. Currently, I’m exploring modern development tools, advanced Laravel features, and state management in SPAs to continuously evolve as a developer and contribute to impactful digital experiences. I believe that great software is not only functional but also elegant under the hood, combining performance, maintainability, and a touch of creativity in every line of code I write.</p>
 
 ###
 
