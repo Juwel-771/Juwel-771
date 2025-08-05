@@ -2,7 +2,29 @@
 
 ###
 
-<p align="left">I'm a dedicated Front-End Developer with a strong focus on React.js and hands-on experience in building full-stack applications using the MERN stack. I enjoy crafting clean, efficient, and maintainable code while tackling complex project challenges that push my problem-solving abilities. ⚙️ Whether it's building dynamic user interfaces or managing state with precision, I strive to bring a thoughtful, scalable approach to every project I work on.<br><br>Currently, I'm diving deeper into the tech universe 🚀 by exploring a range of modern tools, libraries, and development practices. My goal is to continuously evolve as a developer, stay ahead of the curve, and contribute to impactful digital experiences. 💻 I believe in writing code that not only works but is beautiful under the hood — because great software is both functional and elegant.</p>
+<p align="left">💻 Hi, I’m Juwel!
+
+I’m a dedicated Full-Stack Developer passionate about crafting dynamic and scalable web applications.
+My expertise spans across:
+
+⚡ Frontend: React.js & Vue.js for building clean, interactive UIs
+
+⚙️ Backend: PHP & Laravel for robust server-side logic
+
+🖥️ Programming Languages: JavaScript (ES6+) & PHP
+
+I enjoy writing clean, efficient, and maintainable code while tackling complex project challenges that sharpen my problem-solving skills. From state management in SPAs to secure backend architecture, I take a thoughtful and scalable approach to every project.
+
+🚀 Currently Exploring:
+
+Modern frontend ecosystems and state management techniques
+
+Advanced Laravel features for building production-ready apps
+
+Clean code, best practices, and full-stack project development
+
+✨ I believe:
+Great software is not just functional—it’s elegant, performant, and future-proof.</p>
 
 ###
 
