@@ -1,15 +1,14 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7apng?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjE2NTg0MjcsIm5iZiI6MTc2MTY1ODEyNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTEwMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMDI4VDEzMjg0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzNWJjMzE2ODA0YzVmNzY1YWFlYjk5YWUyMTQxOGM1OTRkYTQ3MTUyODFlYzZmYzIyM2E5M2YyN2QwYmY4NDgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gwmaXe6jNM6LAZjdeI8v7oJkI9KLpRvW66WEBLy7h8Q">
-
 <div align="center">
   <h1>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Sun.png" alt="Sun" width="30" height="30" />
      MOHAMMED JUWEL
-    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="30" height="30" />
   </h1>
 
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
   <p>
-    <em>🚀 Full Stack Developer </em>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" /> Full Stack Developer
   </p>
 </div>
 
@@ -22,7 +21,7 @@
 
 ###
 
-<h2 align="left">Find me here 🔗</h2>
+<h2 align="left">Find me here <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Pirate%20Flag.png" alt="Pirate Flag" width="30" height="25" /> </h2>
 
 ###
 
