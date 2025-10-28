@@ -1,8 +1,31 @@
-<h1 align="center">MOHAMMED JUWEL</h1>
+<div align="center">
+  <h1>
+     MOHAMMED JUWEL
+    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+  </h1>
+
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
+
+  <p>
+    <em>🚀 Full Stack Developer </em>
+  </p>
+
+  <p>
+    <a href="https://github.com/Juwel-771">
+      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
+    </a>
+    <a href="https://github.com/Juwel-771">
+      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
+    </a>
+  </p>
+</div>
+
+<!-- <h1 align="center">MOHAMMED JUWEL</h1>
 <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
+<img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" /> -->
 ###
 
-<p align="left">Passionate Full-Stack Developer skilled in building scalable, high-performance web applications with clean, maintainable code. Exploring modern JavaScript frameworks, state management, and cutting-edge development tools to craft efficient and future-ready digital solutions.</p>
+<p align="left">Passionate Full-Stack Developer skilled in building scalable, high-performance web applications with clean, maintainable code. Exploring modern JavaScript frameworks, state management, and cutting-edge development tools to craft efficient future-ready digital solutions.</p>
 
 ###
 
