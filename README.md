@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I’m a dedicated Full-Stack Developer with a passion for building dynamic and scalable web applications using React.js, Vue.js, and Laravel. With strong programming skills in JavaScript and PHP, I enjoy crafting clean, efficient, and maintainable code while solving complex project challenges that enhance my problem-solving abilities. From creating interactive and seamless front-end experiences to building secure and robust back-end systems, I approach every project with a thoughtful, scalable, and future-proof mindset. Currently, I’m exploring modern development tools, advanced Laravel features, and state management in SPAs to continuously evolve as a developer and contribute to impactful digital experiences. I believe that great software is not only functional but also elegant under the hood, combining performance, maintainability, and a touch of creativity in every line of code I write.</p>
+<p align="center">Passionate Full-Stack Developer skilled in building scalable, high-performance web applications with clean, maintainable code. Exploring modern JavaScript frameworks, state management, and cutting-edge development tools to craft efficient and future-ready digital solutions.</p>
 
 ###
 
