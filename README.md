@@ -1,4 +1,4 @@
-<h1 align="center">Mohammed Juwel</h1>
+<h1 align="center">MOHAMMED JUWEL</h1>
 
 ###
 
