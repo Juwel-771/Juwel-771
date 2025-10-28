@@ -2,7 +2,7 @@
 
 ###
 
-<p align="right">Passionate Full-Stack Developer skilled in building scalable, high-performance web applications with clean, maintainable code. Exploring modern JavaScript frameworks, state management, and cutting-edge development tools to craft efficient and future-ready digital solutions.</p>
+<p align="left">Passionate Full-Stack Developer skilled in building scalable, high-performance web applications with clean, maintainable code. Exploring modern JavaScript frameworks, state management, and cutting-edge development tools to craft efficient and future-ready digital solutions.</p>
 
 ###
 
