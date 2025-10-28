@@ -1,6 +1,5 @@
 <h1 align="center">MOHAMMED JUWEL</h1>
-[![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/Juwel-771)
-
+<img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
 ###
 
 <p align="left">Passionate Full-Stack Developer skilled in building scalable, high-performance web applications with clean, maintainable code. Exploring modern JavaScript frameworks, state management, and cutting-edge development tools to craft efficient and future-ready digital solutions.</p>
