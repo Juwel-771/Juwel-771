@@ -9,15 +9,6 @@
   <p>
     <em>🚀 Full Stack Developer </em>
   </p>
-
-  <p>
-    <a href="https://github.com/Juwel-771">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
-    </a>
-    <a href="https://github.com/Juwel-771">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
-    </a>
-  </p>
 </div>
 
 <!-- <h1 align="center">MOHAMMED JUWEL</h1>
