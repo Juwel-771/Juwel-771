@@ -31,6 +31,7 @@
   </a>
 </div> -->
 
+
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/mdjuwel9/" target="_blank">
@@ -51,52 +52,84 @@
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="" />
-  <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+<div align="center" style="background-color:#1d002a; border-radius:12px; padding:20px; border:1px solid #211832;">
+    <table>
+    <!-- Row 1: Frontend Mastery (100%) -->
+    <tr>
+      <td colspan="2" align="center">
+        <h3> 🧩 Programming Languages</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+          <img width="" />
+        </p>
+      </td>
+    </tr>
+    <!-- Row 2: Backend (50%) + Tools & DevOps (50%) -->
+    <tr>
+      <td width="50%" valign="top">
+        <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="25" height="25" /> Frontend</h3>
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+            <img width="" />
+            <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+            <img width="" />
+            <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+            <img width="" />
+            <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+            <img width="" />
+            <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+            <img width="" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+            <img width="" />
+            <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
+            <img width="" />
+        </p>
+      </td>
+      <td width="50%" valign="top">
+        <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Backend</h3>
+        <p align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+          <img width="" />
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+          <img width="" />
+        </p>
+      </td>
+    </tr>
+    <!-- Row 3: Deployment (100%) -->
+    <tr>
+      <td colspan="2" align="center">
+        <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Deployment & Tools</h3>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+          <img width="" />
+          <img src="https://skillicons.dev/icons?i=bots" height="40" alt="abbrobotstudio logo"  />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
+---
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cyclone.png" alt="Cyclone" width="25" height="25" /> GitHub Pulse</h2>
 
